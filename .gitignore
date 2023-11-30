@@ -1,5 +1,5 @@
 # IntelliJ IDEA files
-.idea/
+../.idea/
 *.iml
 *.iws
 *.ipr
@@ -10,7 +10,7 @@
 **/*.rs.bk
 
 # Generated files
-Cargo.lock
+guessing-game/Cargo.lock
 **/*.rs.bk
 
 # Environment files
