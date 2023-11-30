@@ -52,4 +52,5 @@ Desktop.ini
 /.idea/sonarlint/securityhotspotstore/index.pb
 /.idea/modules.xml
 /.idea/vcs.xml
+/.idea/*
 ../target/*
