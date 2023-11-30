@@ -1,0 +1,40 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# Rust specific
+/target/
+**/*.rs.bk
+
+# Generated files
+Cargo.lock
+**/*.rs.bk
+
+# Environment files
+.env
+.env.*
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Linux specific
+*.swp
+*~
+
+# Other common ignores
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+*.db
+*.sql
+*.sqlite
